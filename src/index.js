@@ -11,8 +11,15 @@ addEventListener('fetch', event => {
 
  /**
  * @description
+ * Variabel ini berisi url api get yg akan kamu ambil dari google Appas Script.
+ * @type {String}
+ */
+const SCRIPT_URL = 'url_api_APPSCRIPT';
+
+ /**
+ * @description
  * Variabel ini berisi data JSON cadangan yang akan digunakan jika terjadi kesalahan saat mengambil data dari URL API Google Apps Script.
- * @type {Array}
+ * @type {Object}
  */
  const FALLBACK_JSON_DATA = [json_backup_kamu];
 
