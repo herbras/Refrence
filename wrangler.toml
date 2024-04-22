@@ -1,4 +1,7 @@
-name = "worker-blue-night-fa2f"
+name = "Hayolo"
 main = "src/index.js"
 compatibility_date = "2024-04-22"
 workers_dev = true
+kv_namespaces = [
+  { binding = "nama_Kv_Kamu", id = "kode_kv_kamu" }
+]
