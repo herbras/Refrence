@@ -13,3 +13,5 @@ Dengan menggunakan kombinasi Google Apps Script dan Cloudflare Workers, saya ber
 Solusi ini memungkinkan akses yang lebih cepat dan efisien ke file-file di Google Drive tanpa harus membuka langsung Google Drive yang lambat. Dengan meng-cache data di Cloudflare KV, permintaan selanjutnya dapat dilayani dengan lebih cepat, sehingga meningkatkan pengalaman pengguna secara keseluruhan.
 
 Semoga solusi ini dapat membantu orang lain yang mengalami masalah serupa dalam mengakses file di Google Drive. Jika ada pertanyaan atau saran lebih lanjut, jangan ragu untuk menghubungi saya.
+
+## Kalau kamu prefer mainan DB, feel free buat Dump Reference.db
