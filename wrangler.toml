@@ -1,0 +1,4 @@
+name = "worker-blue-night-fa2f"
+main = "src/index.js"
+compatibility_date = "2024-04-22"
+workers_dev = true
